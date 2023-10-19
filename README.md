@@ -1,4 +1,4 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+This is an application to practice NextJs and Tailwinds, which lists users and consumes the reqres.in API
 
 ## Getting Started
 
