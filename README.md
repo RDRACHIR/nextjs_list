@@ -1,4 +1,5 @@
 This is an application to practice NextJs and Tailwinds, which lists users and consumes the reqres.in API
+Open (https://nextjs-list-sigma.vercel.app/)
 
 ## Getting Started
 
